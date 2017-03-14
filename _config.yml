@@ -139,3 +139,4 @@ nofollow:
   enable: true
   exclude:
     - https://dangerwolf.github.io/ # eg: zthxxx.me
+theme: jekyll-theme-cayman
