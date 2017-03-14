@@ -138,4 +138,4 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - <your site url domain> # eg: zthxxx.me
+    - https://dangerwolf.github.io/ # eg: zthxxx.me
